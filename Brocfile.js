@@ -1,5 +1,5 @@
 var pickFiles = require('broccoli-static-compiler');
-var mergeTrees    = require('broccoli-merge-trees');
+var mergeTrees = require('broccoli-merge-trees');
 
 var deps = pickFiles('bower_components', {
     srcDir: '/',
