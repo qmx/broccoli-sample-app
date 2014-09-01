@@ -1,0 +1,11 @@
+{
+  "name": "broccoli-sample-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Douglas Campos <qmx@qmx.me>",
+  "license": "MIT"
+}
