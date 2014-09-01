@@ -1,0 +1,17 @@
+{
+  "name": "broccoli-sample-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/qmx/broccoli-sample-app",
+  "authors": [
+    "Douglas Campos <qmx@qmx.me>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
