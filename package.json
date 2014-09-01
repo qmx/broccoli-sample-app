@@ -7,5 +7,9 @@
     "test": " "
   },
   "author": "Douglas Campos <qmx@qmx.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "broccoli": "^0.12.3",
+    "broccoli-merge-trees": "^0.1.4"
+  }
 }
